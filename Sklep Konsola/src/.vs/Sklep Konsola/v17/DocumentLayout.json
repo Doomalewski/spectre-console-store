@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53B687C3-0A6A-4877-A94D-7CA058FE7F48}|..\\Sklep Konsola.Tests\\Sklep Konsola.Tests.csproj|c:\\users\\user\\source\\repos\\sklep konsola\\sklep konsola\\sklep konsola.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep Konsola.csproj|c:\\users\\user\\source\\repos\\sklep konsola\\sklep konsola\\src\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep Konsola.csproj|solutionrelative:storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep_Konsola.csproj|c:\\users\\user\\source\\repos\\sklep konsola\\sklep konsola\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep_Konsola.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep_Konsola.csproj|c:\\users\\user\\source\\repos\\sklep konsola\\sklep konsola\\src\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep_Konsola.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep_Konsola.csproj|c:\\users\\user\\source\\repos\\sklep konsola\\sklep konsola\\src\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep_Konsola.csproj|solutionrelative:price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep Konsola.csproj|c:\\users\\user\\source\\repos\\sklep konsola\\sklep konsola\\src\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep Konsola.csproj|solutionrelative:storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep Konsola.csproj|c:\\users\\user\\source\\repos\\sklep konsola\\sklep konsola\\src\\viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep Konsola.csproj|solutionrelative:viewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep Konsola.csproj|c:\\users\\user\\source\\repos\\sklep konsola\\sklep konsola\\src\\accountrelated\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep Konsola.csproj|solutionrelative:accountrelated\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep Konsola.csproj|c:\\users\\user\\source\\repos\\sklep konsola\\sklep konsola\\src\\orderrelated\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F94AA71-702F-4900-9D13-5C806A48B46B}|Sklep Konsola.csproj|solutionrelative:orderrelated\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:52:27.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Price.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\Price.cs",
+              "RelativeDocumentMoniker": "Price.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\Price.cs",
+              "RelativeToolTip": "Price.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:14:58.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:12:08.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\Sklep Konsola.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Sklep Konsola.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\Sklep Konsola.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Sklep Konsola.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:53:47.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\StoreService.cs",
+              "RelativeDocumentMoniker": "StoreService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\StoreService.cs",
+              "RelativeToolTip": "StoreService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADwv0EAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:28:30.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\AccountRelated\\Account.cs",
+              "RelativeDocumentMoniker": "AccountRelated\\Account.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\AccountRelated\\Account.cs",
+              "RelativeToolTip": "AccountRelated\\Account.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:07:22.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\OrderRelated\\Order.cs",
+              "RelativeDocumentMoniker": "OrderRelated\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\OrderRelated\\Order.cs",
+              "RelativeToolTip": "OrderRelated\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:52:57.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\StoreRepository.cs",
+              "RelativeDocumentMoniker": "StoreRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\StoreRepository.cs",
+              "RelativeToolTip": "StoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:51:36.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\ViewController.cs",
+              "RelativeDocumentMoniker": "ViewController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Sklep konsola\\Sklep Konsola\\src\\ViewController.cs",
+              "RelativeToolTip": "ViewController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:02:41.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
